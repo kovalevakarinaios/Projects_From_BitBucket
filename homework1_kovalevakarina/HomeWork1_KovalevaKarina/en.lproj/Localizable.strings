@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  HomeWork1_KovalevaKarina
+
+  Created by Karina Kovaleva on 11.12.22.
+  
+*/
+
+"greeting" = "Hello";
+"darkMode" = "Dark mode";
+"lightMode" = "Light mode";
+"autoMode" = "Auto mode";

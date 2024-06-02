@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  HomeWork1_KovalevaKarina
+
+  Created by Karina Kovaleva on 11.12.22.
+  
+*/
+
+"greeting" = "Прывітанне";
+"darkMode" = "Цёмны рэжым";
+"lightMode" = "Светлы рэжым";
+"autoMode" = "Рэжым сістэмы";

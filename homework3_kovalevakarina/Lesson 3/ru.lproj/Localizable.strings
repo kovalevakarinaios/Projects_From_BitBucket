@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Lesson 3
+
+  Created by Karina Kovaleva on 25.12.22.
+  
+*/
+
+"contacts" = "Контакты";
+"favorite" = "Избранное";
+"downloadContacts" = "Загрузить контакты";
+"save" = "Сохранить";
+"phoneNumber" = "Номер телефона";
+"name" = "Имя";
+"surname" = "Фамилия";
+"copy" = "Копировать";
+"share" = "Поделиться";
+"delete" = "Удалить";
+"cancel" = "Отменить";

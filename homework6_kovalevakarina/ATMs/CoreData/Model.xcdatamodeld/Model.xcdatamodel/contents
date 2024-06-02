@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21512" systemVersion="22A400" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="AtmCoreData" representedClassName="AtmCoreData" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String"/>
+        <attribute name="addressType" optional="YES" attributeType="String"/>
+        <attribute name="area" optional="YES" attributeType="String"/>
+        <attribute name="atmError" optional="YES" attributeType="String"/>
+        <attribute name="atmPrinter" optional="YES" attributeType="String"/>
+        <attribute name="atmType" optional="YES" attributeType="String"/>
+        <attribute name="cashIn" optional="YES" attributeType="String"/>
+        <attribute name="city" optional="YES" attributeType="String"/>
+        <attribute name="cityType" optional="YES" attributeType="String"/>
+        <attribute name="currency" optional="YES" attributeType="String"/>
+        <attribute name="gpsX" optional="YES" attributeType="String"/>
+        <attribute name="gpsY" optional="YES" attributeType="String"/>
+        <attribute name="house" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="installPlace" optional="YES" attributeType="String"/>
+        <attribute name="installPlaceFull" optional="YES" attributeType="String"/>
+        <attribute name="workTime" optional="YES" attributeType="String"/>
+        <attribute name="workTimeFull" optional="YES" attributeType="String"/>
+    </entity>
+</model>
